@@ -1,7 +1,7 @@
 # Amazon Clone
 A basic clone of the Amazon homepage created using **HTML** and **CSS**. This project replicates the visual design and 
 structure of Amazon's website. It serves as a practice project to improve frontend development skills.  
-⚠️ **Note**: This clone is not responsive and is optimized for desktop viewing only.
+**Note**: This clone is not responsive and is optimized for desktop viewing only.
 
 ## Features
 - **Navigation Bar**: Includes Amazon-like search functionality and links.
